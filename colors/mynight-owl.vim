@@ -1,10 +1,10 @@
 " ===============================================================
-" night-owl
+" mynight-owl
 " 
-" URL: https://github.com/haishanh/night-owl.vim
-" Author: Haishan
+" URL: https://github.com/rlaneyjr/mynight-owl.vim
+" Author: Ricky Laney
 " License: MIT
-" Last Change: 2018/09/03 23:51
+" Last Change: 2018/09/28 20:05
 " ===============================================================
 
 set background=dark
@@ -12,7 +12,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name="night-owl"
+let g:colors_name="mynight-owl"
 
 hi Normal guifg=#d6deeb ctermfg=253 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi LineNr guifg=#444444 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
