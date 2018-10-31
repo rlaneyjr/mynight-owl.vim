@@ -4,7 +4,7 @@
 " URL: https://github.com/rlaneyjr/mynight-owl.vim
 " Author: Ricky Laney
 " License: MIT
-" Last Change: 2018/09/29 09:21
+" Last Change: 2018/10/30 13:47
 " ===============================================================
 
 set background=dark

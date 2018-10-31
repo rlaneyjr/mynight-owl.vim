@@ -10,11 +10,11 @@ A 24bit dark Vim colorscheme based on [sdras/night-owl-vscode-theme](https://git
 """"" install
 
 " install with vim-plug
-Plug 'haishanh/night-owl.vim'
+Plug 'rlaneyjr/mynight-owl.vim'
 " or with NeoBundle
-" NeoBundle 'haishanh/night-owl.vim'
+" NeoBundle 'rlaneyjr/mynight-owl.vim'
 " or with Vundle
-" Plugin 'haishanh/night-owl.vim'
+" Plugin 'rlaneyjr/mynight-owl.vim'
 
 """"" enable 24bit true color
 
@@ -29,5 +29,5 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 """"" enable the theme
 
 syntax enable
-colorscheme night-owl
+colorscheme mynight-owl
 ```
